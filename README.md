@@ -12,16 +12,28 @@ Un apasionado por la creación de soluciones escalables, la arquitectura de soft
 
 ---
 
-<div align="center">
+## ⬢ Ecosistema de Soluciones
 
-### ⬢ Ecosistema Tecnológico & Arquitectura
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
 
-| <h3>Core Backend & IA</h3> | <h3>Cloud & Data</h3> | <h3>Frontend & IoT</h3> |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/PHP-78909C?style=flat-square&logo=php&logoColor=white" /> | <img src="https://img.shields.io/badge/AWS-78909C?style=flat-square&logo=amazon-aws&logoColor=white" /> | <img src="https://img.shields.io/badge/Vue.js-78909C?style=flat-square&logo=vuedotjs&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Laravel-78909C?style=flat-square&logo=laravel&logoColor=white" /> | <img src="https://img.shields.io/badge/PostgreSQL-78909C?style=flat-square&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/React-78909C?style=flat-square&logo=react&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Python-78909C?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-78909C?style=flat-square&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/Arduino-78909C?style=flat-square&logo=arduino&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Gemini_AI-78909C?style=flat-square&logo=googlegemini&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-78909C?style=flat-square&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/C++-78909C?style=flat-square&logo=cplusplus&logoColor=white" /> |
+### 🧠 Core Backend & Inteligencia Artificial
+*Lógica de negocio robusta e integración de modelos generativos*
+<br>
+<img src="https://img.shields.io/badge/PHP-78909C?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-78909C?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Python-78909C?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-78909C?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Java-78909C?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-78909C?style=flat-square&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_AI-78909C?style=flat-square&logo=googlegemini&logoColor=white" />
+
+<br>
+
+### ☁️ Cloud, Data & Infrastructure
+*Arquitectura escalable, seguridad y alta disponibilidad*
+<br>
+<img src="https://img.shields.io/badge/AWS_Architect_Jr-78909C?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-78909C?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-78909C?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL_Server-78909C?style=flat-square&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/FaunaDB-78909C?style=flat-square&logo=fauna&logoColor=white" /> <img src="https://img.shields.io/badge/Git_/_CI_CD-78909C?style=flat-square&logo=git&logoColor=white" />
+
+<br>
+
+### 💻 Frontend, IoT & Hardware
+*Interfaces de alta fidelidad e integración con el mundo físico*
+<br>
+<img src="https://img.shields.io/badge/Vue.js-78909C?style=flat-square&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React.js-78909C?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-78909C?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-78909C?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-78909C?style=flat-square&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-78909C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-78909C?style=flat-square&logo=espressif&logoColor=white" />
 
 </div>
 ---
