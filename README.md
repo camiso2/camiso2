@@ -38,6 +38,15 @@ Un apasionado por la creación de soluciones escalables, la arquitectura de soft
 - **[DATA-COVID](https://github.com/camiso2/DATA-COVID):** Plataforma de análisis y visualización de datos epidemiológicos. Un proyecto enfocado en la gestión de grandes volúmenes de información y representación estadística.
 - **Olimpo Internacional:** 🌍 Arquitectura de software escalable con internacionalización activa para múltiples regiones.
 - **IoT Ecosystems:** Integración de hardware (Arduino/ESP32) con dashboards web en tiempo real para control y monitoreo industrial.
+- 
+### 📺 Portafolio de Soluciones & Demos (Video)
+
+A lo largo de mi trayectoria he desarrollado productos robustos que demuestran mi capacidad para resolver necesidades de negocio reales:
+
+- **[MiMenu Pro](https://www.youtube.com/@mimenupro7973):** Plataforma SaaS diseñada para el sector gastronómico, optimizando la gestión de menús digitales y pedidos.
+- **[SISAHO - Gestión Hospitalaria](https://www.youtube.com/@sisaho7895):** Desarrollo de software especializado para el sector hotelero, enfocado en eficiencia operativa y trazabilidad.
+- **[Celuphoto](https://www.youtube.com/@celuphoto3885):** Plataforma de servicios digitales y gestión, documentada como parte del portafolio histórico de soluciones a medida.
+- **[Portafolio Técnico - Jaiver Ocampo](https://www.youtube.com/@jaiverandresocampo6401):** Canal personal con implementaciones de software, lógica de negocio y arquitectura.
 
 ---
 
