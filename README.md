@@ -65,6 +65,8 @@ A lo largo de mi trayectoria he desarrollado productos robustos que demuestran m
 
 <p align="center">
   <a href="https://crearsoft.com" target="_blank" rel="noopener noreferrer" title="Visitar Crearsoft.com">
-    Crearsof (Ingenieria Global)
+    <img src="https://crearsoft.com/img/logo.jpg" alt="Crearsoft (Ingeniería Global)" width="250" />
+    <br />
+    <strong>Crearsoft (Ingeniería Global)</strong>
   </a>
 </p>
