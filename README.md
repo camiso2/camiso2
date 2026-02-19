@@ -34,19 +34,19 @@ Un apasionado por la creación de soluciones escalables, la arquitectura de soft
 
 ### 🚀 Proyectos Destacados
 
-- **[Visualhub360](https://github.com/camiso2/Visualhub360Crearsoft):** 🏛️ Sistema integral de gestión empresarial (ERP/SaaS) bajo stack Laravel/Vue. Implementa arquitectura multi-tenant y módulos de alta complejidad para administración de recursos.
-- **[ATTENDANCE-V3](https://github.com/camiso2/ATTENDANCE-V3):** 🕒 Sistema avanzado de control de asistencia y gestión de personal. Optimizado para el seguimiento de tiempos y productividad en entornos corporativos.
-- **[CECEP Projects](https://github.com/camiso2/CECEP):** 🎓 Repositorio de soluciones y desarrollos académicos/técnicos avanzados, demostrando versatilidad en múltiples lenguajes y arquitecturas.
-- **[DATA-COVID](https://github.com/camiso2/DATA-COVID):** 📊 Plataforma de análisis y visualización de datos epidemiológicos. Un proyecto enfocado en la gestión de grandes volúmenes de información y representación estadística.
+- **[Visualhub360](https://github.com/camiso2/Visualhub360Crearsoft):**Sistema integral de gestión empresarial (ERP/SaaS) bajo stack Laravel/Vue. Implementa arquitectura multi-tenant y módulos de alta complejidad para administración de recursos.
+- **[ATTENDANCE-V3](https://github.com/camiso2/ATTENDANCE-V3):** Sistema avanzado de control de asistencia y gestión de personal. Optimizado para el seguimiento de tiempos y productividad en entornos corporativos.
+- **[CECEP Projects](https://github.com/camiso2/CECEP):** Repositorio de soluciones y desarrollos académicos/técnicos avanzados, demostrando versatilidad en múltiples lenguajes y arquitecturas.
+- **[DATA-COVID](https://github.com/camiso2/DATA-COVID):** Plataforma de análisis y visualización de datos epidemiológicos. Un proyecto enfocado en la gestión de grandes volúmenes de información y representación estadística.
 - **Olimpo Internacional:** 🌍 Arquitectura de software escalable con internacionalización activa para múltiples regiones.
-- **IoT Ecosystems:** 🤖 Integración de hardware (Arduino/ESP32) con dashboards web en tiempo real para control y monitoreo industrial.
+- **IoT Ecosystems:** Integración de hardware (Arduino/ESP32) con dashboards web en tiempo real para control y monitoreo industrial.
 
 ---
 
 ### 📫 Contacto & Ubicación
-- 📍 Armenia, Quindío, Colombia 🇨🇴
-- 📧 camiso2@gmail.com
-- 🌐 [crearsoft.com](https://crearsoft.com/)
+- Armenia, Quindío, Colombia 🇨🇴
+- camiso2@gmail.com
+- [crearsoft.com](https://crearsoft.com/)
 
 ---
 
