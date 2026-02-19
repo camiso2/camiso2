@@ -65,6 +65,6 @@ A lo largo de mi trayectoria he desarrollado productos robustos que demuestran m
 
 <p align="center">
   <a href="https://crearsoft.com" target="_blank" rel="noopener noreferrer" title="Visitar Crearsoft.com">
-    <img src="https://github-readme-stats.vercel.app/api?username=camiso2&show_icons=true&theme=tokyonight" alt="Jaiver's GitHub Stats" />
+    <img src="[https://github-readme-stats.vercel.app/api?username=camiso2&show_icons=true&theme=tokyonight](https://avatars.githubusercontent.com/u/69644254?v=4)" alt="Jaiver's GitHub Stats" />
   </a>
 </p>
