@@ -12,7 +12,7 @@ Un apasionado por la creación de soluciones escalables, la arquitectura de soft
 
 ---
 
-## ⬢ Ecosistema de Soluciones
+## 🧊 Ecosistema de Soluciones
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
 
