@@ -1,5 +1,5 @@
 # Jaiver Andrés Ocampo Oviedo 👋
-### Software Architect & Senior Full Stack Developer 🚀
+### Software Architect & Senior Full Stack Developer
 
 Un apasionado por la creación de soluciones escalables, la arquitectura de software y la **integración avanzada de Inteligencia Artificial**. Con más de 10 años de experiencia transformando ideas complejas en plataformas robustas (ERP, SaaS, CRM).
 
