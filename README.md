@@ -12,9 +12,18 @@ Un apasionado por la creación de soluciones escalables, la arquitectura de soft
 
 ---
 
+<div align="center">
 
+### ⬢ Ecosistema Tecnológico & Arquitectura
 
-<div align="center">Core Backend & IACloud & Data ArchitectureFrontend & IoT<img src="https://img.shields.io/badge/PHP-78909C?style=flat-square&logo=php&logoColor=white" /><img src="https://img.shields.io/badge/Laravel-78909C?style=flat-square&logo=laravel&logoColor=white" /><img src="https://img.shields.io/badge/Python-78909C?style=flat-square&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Gemini_AI-78909C?style=flat-square&logo=googlegemini&logoColor=white" /><img src="https://img.shields.io/badge/AWS-78909C?style=flat-square&logo=amazon-aws&logoColor=white" /><img src="https://img.shields.io/badge/PostgreSQL-78909C?style=flat-square&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-78909C?style=flat-square&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/Git-78909C?style=flat-square&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/Vue.js-78909C?style=flat-square&logo=vuedotjs&logoColor=white" /><img src="https://img.shields.io/badge/React-78909C?style=flat-square&logo=react&logoColor=white" /><img src="https://img.shields.io/badge/Arduino-78909C?style=flat-square&logo=arduino&logoColor=white" /><img src="https://img.shields.io/badge/C++-78909C?style=flat-square&logo=cplusplus&logoColor=white" /></div>
+| <h3>Core Backend & IA</h3> | <h3>Cloud & Data</h3> | <h3>Frontend & IoT</h3> |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/PHP-78909C?style=flat-square&logo=php&logoColor=white" /> | <img src="https://img.shields.io/badge/AWS-78909C?style=flat-square&logo=amazon-aws&logoColor=white" /> | <img src="https://img.shields.io/badge/Vue.js-78909C?style=flat-square&logo=vuedotjs&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Laravel-78909C?style=flat-square&logo=laravel&logoColor=white" /> | <img src="https://img.shields.io/badge/PostgreSQL-78909C?style=flat-square&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/React-78909C?style=flat-square&logo=react&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Python-78909C?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-78909C?style=flat-square&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/Arduino-78909C?style=flat-square&logo=arduino&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Gemini_AI-78909C?style=flat-square&logo=googlegemini&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-78909C?style=flat-square&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/C++-78909C?style=flat-square&logo=cplusplus&logoColor=white" /> |
+
+</div>
 ---
 
 ### 🧊 Proyectos Destacados
