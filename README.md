@@ -54,6 +54,7 @@ A lo largo de mi trayectoria he desarrollado productos robustos que demuestran m
 ### 📫 Contacto & Ubicación
 - Armenia, Quindío, Colombia 🇨🇴
 - camiso2@gmail.com
+- **WhatsApp:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573154009174?text=Hola%20Jaiver,%20vi%20tu%20perfil%20en%20GitHub%20y%20me%20gustaría%20contactarte)
 - [crearsoft.com](https://crearsoft.com/)
 
 ---
