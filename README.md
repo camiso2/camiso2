@@ -43,10 +43,11 @@ Un apasionado por la creación de soluciones escalables, la arquitectura de soft
 
 A lo largo de mi trayectoria he desarrollado productos robustos que demuestran mi capacidad para resolver necesidades de negocio reales:
 
+- **[Portafolio Técnico - Jaiver Ocampo](https://www.youtube.com/@jaiverandresocampo6401):** Canal personal con implementaciones de software, lógica de negocio y arquitectura.
 - **[MiMenu Pro](https://www.youtube.com/@mimenupro7973):** Plataforma SaaS diseñada para el sector gastronómico, optimizando la gestión de menús digitales y pedidos.
 - **[SISAHO - Gestión Hospitalaria](https://www.youtube.com/@sisaho7895):** Desarrollo de software especializado para el sector hotelero, enfocado en eficiencia operativa y trazabilidad.
 - **[Celuphoto](https://www.youtube.com/@celuphoto3885):** Plataforma de servicios digitales y gestión, documentada como parte del portafolio histórico de soluciones a medida.
-- **[Portafolio Técnico - Jaiver Ocampo](https://www.youtube.com/@jaiverandresocampo6401):** Canal personal con implementaciones de software, lógica de negocio y arquitectura.
+
 
 ---
 
