@@ -14,40 +14,13 @@ Un apasionado por la creación de soluciones escalables, la arquitectura de soft
 
 <div align="center">
 
+<div align="center">
+
 ### ⬢ Ecosistema Tecnológico & Arquitectura
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td align="left" style="border: none; padding: 10px;">
-      <strong>Core Backend & IA</strong><br/>
-      <img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-20232A?style=for-the-badge&logo=spring-boot&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Gemini_AI-20232A?style=for-the-badge&logo=googlegemini&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left" style="border: none; padding: 10px;">
-      <strong>Frontend & Reactivity</strong><br/>
-      <img src="https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left" style="border: none; padding: 10px;">
-      <strong>Cloud, Data & IoT</strong><br/>
-      <img src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Arduino-20232A?style=for-the-badge&logo=arduino&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-  </tr>
-</table>
+| **Core Backend & IA** | **Cloud & Data Architecture** | **Frontend & IoT** |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=white" /><br><img src="https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=laravel&logoColor=white" /><br><img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" /><br><img src="https://img.shields.io/badge/Gemini_AI-20232A?style=for-the-badge&logo=googlegemini&logoColor=white" /> | <img src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br><img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=white" /><br><img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=white" /><br><img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=vuedotjs&logoColor=white" /><br><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" /><br><img src="https://img.shields.io/badge/Arduino-20232A?style=for-the-badge&logo=arduino&logoColor=white" /><br><img src="https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=cplusplus&logoColor=white" /> |
 
 </div>
 ---
