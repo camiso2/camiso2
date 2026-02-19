@@ -12,9 +12,7 @@ Un apasionado por la creación de soluciones escalables, la arquitectura de soft
 
 ---
 
-### 🧊 Stack Tecnológico
-
-### 💠 Ecosistema Tecnológico & Arquitectura
+### 🧊 Ecosistema Tecnológico & Arquitectura
 
 <table align="center" style="border: none;">
   <tr>
