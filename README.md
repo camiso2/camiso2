@@ -12,17 +12,9 @@ Un apasionado por la creación de soluciones escalables, la arquitectura de soft
 
 ---
 
-<div align="center">
 
-<div align="center">
 
-### ⬢ Ecosistema Tecnológico & Arquitectura
-
-| **Core Backend & IA** | **Cloud & Data Architecture** | **Frontend & IoT** |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=white" /><br><img src="https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=laravel&logoColor=white" /><br><img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" /><br><img src="https://img.shields.io/badge/Gemini_AI-20232A?style=for-the-badge&logo=googlegemini&logoColor=white" /> | <img src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br><img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=white" /><br><img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=white" /><br><img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=vuedotjs&logoColor=white" /><br><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" /><br><img src="https://img.shields.io/badge/Arduino-20232A?style=for-the-badge&logo=arduino&logoColor=white" /><br><img src="https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=cplusplus&logoColor=white" /> |
-
-</div>
+<div align="center">Core Backend & IACloud & Data ArchitectureFrontend & IoT<img src="https://img.shields.io/badge/PHP-78909C?style=flat-square&logo=php&logoColor=white" /><img src="https://img.shields.io/badge/Laravel-78909C?style=flat-square&logo=laravel&logoColor=white" /><img src="https://img.shields.io/badge/Python-78909C?style=flat-square&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Gemini_AI-78909C?style=flat-square&logo=googlegemini&logoColor=white" /><img src="https://img.shields.io/badge/AWS-78909C?style=flat-square&logo=amazon-aws&logoColor=white" /><img src="https://img.shields.io/badge/PostgreSQL-78909C?style=flat-square&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-78909C?style=flat-square&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/Git-78909C?style=flat-square&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/Vue.js-78909C?style=flat-square&logo=vuedotjs&logoColor=white" /><img src="https://img.shields.io/badge/React-78909C?style=flat-square&logo=react&logoColor=white" /><img src="https://img.shields.io/badge/Arduino-78909C?style=flat-square&logo=arduino&logoColor=white" /><img src="https://img.shields.io/badge/C++-78909C?style=flat-square&logo=cplusplus&logoColor=white" /></div>
 ---
 
 ### 🧊 Proyectos Destacados
