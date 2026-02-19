@@ -63,10 +63,18 @@ A lo largo de mi trayectoria he desarrollado productos robustos que demuestran m
 
 ---
 
-<p align="center">
-  <a href="https://crearsoft.com" target="_blank" rel="noopener noreferrer" title="Visitar Crearsoft.com">
-    <img src="https://crearsoft.com/img/logo.jpg" alt="Crearsoft (Ingeniería Global)" width="250" />
-    <br />
-    <strong>Crearsoft (Ingeniería Global)</strong>
+<div align="center">
+  <br />
+  <a href="https://crearsoft.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://crearsoft.com/img/logo.jpg" alt="Crearsoft Logo" width="180" style="border-radius: 12px;" />
   </a>
-</p>
+  <br />
+  <br />
+  <samp>
+    <strong>CREARSOFT</strong> | <i>Ingeniería Global de Software</i>
+    <br />
+    <kbd>⬢ Soluciones Escalables con IA</kbd>
+  </samp>
+  <br />
+  <br />
+</div>
