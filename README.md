@@ -5,14 +5,14 @@ Un apasionado por la creación de soluciones escalables, la arquitectura de soft
 
 ---
 
-### 🧠 Especialidades & IA
+### 🧊 Especialidades & IA
 - **IA Generativa:** Integración profunda con **Gemini API** para automatización y procesamiento de lenguaje natural.
 - **Arquitectura:** Diseño de sistemas Multi-tenant y microservicios escalables.
 - **Cloud:** Gestión de infraestructura segura en **AWS** (Arquitecto Jr).
 
 ---
 
-### 💻 Stack Tecnológico
+### 🧊 Stack Tecnológico
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -30,7 +30,7 @@ Un apasionado por la creación de soluciones escalables, la arquitectura de soft
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🧊 Proyectos Destacados
 
 - **[Visualhub360](https://github.com/camiso2/Visualhub360Crearsoft):** Sistema integral de gestión empresarial (ERP/SaaS) bajo stack Laravel/Vue. Implementa arquitectura multi-tenant y módulos de alta complejidad para administración de recursos.
 - **[ATTENDANCE-V3](https://github.com/camiso2/ATTENDANCE-V3):** Sistema avanzado de control de asistencia y gestión de personal. Optimizado para el seguimiento de tiempos y productividad en entornos corporativos.
@@ -39,7 +39,7 @@ Un apasionado por la creación de soluciones escalables, la arquitectura de soft
 - **Olimpo Internacional:** 🌍 Arquitectura de software escalable con internacionalización activa para múltiples regiones.
 - **IoT Ecosystems:** Integración de hardware (Arduino/ESP32) con dashboards web en tiempo real para control y monitoreo industrial.
 - 
-### 📺 Portafolio de Soluciones & Demos (Video)
+### 🧊 Portafolio de Soluciones & Demos (Video)
 
 A lo largo de mi trayectoria he desarrollado productos robustos que demuestran mi capacidad para resolver necesidades de negocio reales:
 
@@ -51,7 +51,7 @@ A lo largo de mi trayectoria he desarrollado productos robustos que demuestran m
 
 ---
 
-### 📫 Contacto & Ubicación
+### 🧊 Contacto & Ubicación
 - Armenia, Quindío, Colombia 🇨🇴
 - camiso2@gmail.com
 - **Contáctame:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573154009174?text=Hola%20Jaiver,%20vi%20tu%20perfil%20en%20GitHub%20y%20me%20gustaría%20contactarte)
@@ -60,5 +60,7 @@ A lo largo de mi trayectoria he desarrollado productos robustos que demuestran m
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camiso2&show_icons=true&theme=tokyonight" alt="Jaiver's GitHub Stats" />
+  <a href="https://crearsoft.com" target="_blank" rel="noopener noreferrer" title="Visitar Crearsoft.com">
+    <img src="https://github-readme-stats.vercel.app/api?username=camiso2&show_icons=true&theme=tokyonight" alt="Jaiver's GitHub Stats" />
+  </a>
 </p>
