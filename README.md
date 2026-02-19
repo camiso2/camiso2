@@ -16,13 +16,11 @@ Un apasionado por la creación de soluciones escalables, la arquitectura de soft
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
 
-### 🧠 Core Backend & Inteligencia Artificial
+### ⬢ Core Backend & Inteligencia Artificial
 *Lógica de negocio robusta e integración de modelos generativos*
 <br>
 <img src="https://img.shields.io/badge/PHP-78909C?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-78909C?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Python-78909C?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-78909C?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Java-78909C?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-78909C?style=flat-square&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_AI-78909C?style=flat-square&logo=googlegemini&logoColor=white" />
-
 <br>
-
 ### ☁️ Cloud, Data & Infrastructure
 *Arquitectura escalable, seguridad y alta disponibilidad*
 <br>
